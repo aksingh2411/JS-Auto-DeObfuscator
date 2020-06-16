@@ -1,5 +1,5 @@
 /*
- * Arguments dumper by Luciano Giuseppe
+ * Arguments dumper by 
  * It's just an example
  */
  

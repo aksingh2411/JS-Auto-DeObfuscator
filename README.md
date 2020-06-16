@@ -35,6 +35,3 @@ JsADO injects into the webpage a js script, that hook the function. Once the fun
 ##Personalization
 You can open jsado.py and change: browserName, outputFileName and useSelenium to don't set 'useS' every time.
 For Selenium and Chrome: the default port is 9515, if you need: change it.
-
-##Developer
-[Luciano Giuseppe] (http://sites.google.com/site/lucianogiuseppeprogrammi/)

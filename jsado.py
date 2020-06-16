@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# JS Auto DeObfuscator 0.7.2 by Luciano Giuseppe
+# JS Auto DeObfuscator 
 # Useful on eval deobfuscation code
 #
 #Dependencies: Selenium for python: http://pypi.python.org/pypi/selenium, Selenium server:http://seleniumhq.org/download/
